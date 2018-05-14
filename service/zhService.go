@@ -1,4 +1,4 @@
-package zhService
+package testService
 
 import "fmt"
 
