@@ -2,8 +2,10 @@ package testService
 
 import "fmt"
 
-func printTxt() {
+var StrB string = "testA"
+
+func PrintTxt() {
 	var strA string
-	strA := "getStr"
+	strA = "getStr"
 	fmt.Println("hello hcontroller", strA)
 }
