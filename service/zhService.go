@@ -2,9 +2,9 @@ package testService
 
 import "fmt"
 
-var StrB string = "testA"
+var StrB_n string = "testA"
 
-func PrintTxt() {
+func PrintTxt_n() {
 	var strA string
 	strA = "getStr"
 	fmt.Println("hello hcontroller", strA)
